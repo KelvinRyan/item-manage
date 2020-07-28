@@ -1,0 +1,13 @@
+Book Brand 1,Stationery,Book
+Book Brand 2,Stationery,Book
+Book Brand 3,Stationery,Book
+Acer,Electronics,Laptop
+Mouse,Electronics,Laptop
+Charger,Electronics,Laptop
+External Keyboard,Electronics,Laptop
+Phone,Electronics,Mobile
+Earphone,Electronics,Mobile
+Shoe,Wardrobe,Accessory
+Watch,Wardrobe,Accessory
+T shirt,Wardrobe,Clothes
+Trouser,Wardrobe,Clothes
